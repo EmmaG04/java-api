@@ -6,7 +6,7 @@ public class Hello1 {
 	 int b;
 	 
 	public void hello() {
-		System.out.println("Hey, Welcome");
+		System.out.println("Hello, Welcome to Java coding session");
 		
 	}
 	
