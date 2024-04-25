@@ -13,6 +13,10 @@ public class Student2 {
 		System.out.println("Automation is very easy.");
 	}
 	
+	public void display3() {
+		System.out.println("Automation is fun.");
+	}  
+	
 	public static void main(String[] args) {
 		Student2 student = new Student2();
 		student.display1();

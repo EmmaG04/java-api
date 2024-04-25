@@ -1,5 +1,6 @@
 package Sdet;
 
+// use of this in constructor to print certain order of constructor
 public class ConstructorAssign4 {
 	
 	public ConstructorAssign4() {

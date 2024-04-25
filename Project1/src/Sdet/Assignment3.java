@@ -1,6 +1,6 @@
 package Sdet;
 
-public class Arithemetics3 {
+public class Assignment3 {
 	
 	//((((10+2)+2)-2)*2/2)
 	//((((10/2)-2)+2)-2/2)
@@ -27,7 +27,7 @@ public class Arithemetics3 {
 	}
 	
 	public static void main(String[] args) {
-		Arithemetics3 cal = new Arithemetics3();
+		Assignment3 cal = new Assignment3();
 		int sum1 = cal.sum(10, 2);
 		int sum2 = cal.sum(sum1, 2);
 		int sub1 = cal.substract(sum2,2);

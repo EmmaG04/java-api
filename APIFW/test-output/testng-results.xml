@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T00:01:40Z" name="Suite" finished-at="2024-04-25T00:01:42Z" duration-ms="2028">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T00:01:40Z" name="Test" finished-at="2024-04-25T00:01:42Z" duration-ms="2028">
+      <class name="org.testing.testScripts.TC6_GetAll_RealAPI">
+        <test-method signature="testcase6()[pri:0, instance:org.testing.testScripts.TC6_GetAll_RealAPI@2d710f1a]" started-at="2024-04-24T20:01:41Z" name="testcase6" finished-at="2024-04-24T20:01:41Z" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- org.testing.testScripts.TC6_GetAll_RealAPI -->
+      <class name="org.testing.testScripts.TC2_GetAllRequest">
+        <test-method signature="testcase2()[pri:0, instance:org.testing.testScripts.TC2_GetAllRequest@4b0d79fc]" started-at="2024-04-24T20:01:41Z" name="testcase2" finished-at="2024-04-24T20:01:41Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- org.testing.testScripts.TC2_GetAllRequest -->
+      <class name="org.testing.testScripts.TC8_GetParticular_RealAPI">
+        <test-method signature="testcase8()[pri:0, instance:org.testing.testScripts.TC8_GetParticular_RealAPI@59505b48]" started-at="2024-04-24T20:01:41Z" name="testcase8" finished-at="2024-04-24T20:01:41Z" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+      </class> <!-- org.testing.testScripts.TC8_GetParticular_RealAPI -->
+      <class name="org.testing.testScripts.TC5_DeleteRequest">
+        <test-method signature="testcase5()[pri:0, instance:org.testing.testScripts.TC5_DeleteRequest@d9345cd]" started-at="2024-04-24T20:01:41Z" name="testcase5" finished-at="2024-04-24T20:01:41Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- org.testing.testScripts.TC5_DeleteRequest -->
+      <class name="org.testing.testScripts.TC10_Delete_RealAPI">
+        <test-method signature="testcase10()[pri:0, instance:org.testing.testScripts.TC10_Delete_RealAPI@6bd61f98]" started-at="2024-04-24T20:01:42Z" name="testcase10" finished-at="2024-04-24T20:01:42Z" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+      </class> <!-- org.testing.testScripts.TC10_Delete_RealAPI -->
+      <class name="org.testing.testScripts.TC3_GetParticularRequest">
+        <test-method signature="testcase3()[pri:0, instance:org.testing.testScripts.TC3_GetParticularRequest@4c1909a3]" started-at="2024-04-24T20:01:41Z" name="testcase3" finished-at="2024-04-24T20:01:41Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- org.testing.testScripts.TC3_GetParticularRequest -->
+      <class name="org.testing.testScripts.TC1_PostRequest">
+        <test-method signature="testcase1()[pri:0, instance:org.testing.testScripts.TC1_PostRequest@1151e434]" started-at="2024-04-24T20:01:40Z" name="testcase1" finished-at="2024-04-24T20:01:41Z" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.testing.testScripts.TC1_PostRequest -->
+      <class name="org.testing.testScripts.TC4_PutRequest">
+        <test-method signature="testcase4()[pri:0, instance:org.testing.testScripts.TC4_PutRequest@428640fa]" started-at="2024-04-24T20:01:41Z" name="testcase4" finished-at="2024-04-24T20:01:41Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+      </class> <!-- org.testing.testScripts.TC4_PutRequest -->
+      <class name="org.testing.testScripts.TC9_Update_RealAPI">
+        <test-method signature="testcase9()[pri:0, instance:org.testing.testScripts.TC9_Update_RealAPI@4efac082]" started-at="2024-04-24T20:01:41Z" name="testcase9" finished-at="2024-04-24T20:01:42Z" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+      </class> <!-- org.testing.testScripts.TC9_Update_RealAPI -->
+      <class name="org.testing.testScripts.TC7_PostRequest_RealAPI">
+        <test-method signature="testcase7()[pri:0, instance:org.testing.testScripts.TC7_PostRequest_RealAPI@29215f06]" started-at="2024-04-24T20:01:41Z" name="testcase7" finished-at="2024-04-24T20:01:41Z" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+      </class> <!-- org.testing.testScripts.TC7_PostRequest_RealAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
